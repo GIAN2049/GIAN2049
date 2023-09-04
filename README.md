@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gianfranco Manchinari Guerrero</h1>
 <h3 align="center">A passionate backend developer from Peru</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://www.linkedin.com/in/gianfranco-manchinari-guerrero-486516241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gianfranco manchinari guerrero" height="30" width="40" /></a>
+<h3>Where to find me</h3>
+<p><a href="https://www.linkedin.com/in/gianfranco-manchinari-guerrero-486516241/" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 
@@ -36,3 +37,7 @@ Siempre en busca de nuevos desafíos y comprometido con mi crecimiento profesion
 ```txt
 Kubernetes 2 hrs 36 mins   █████████████████████████  100.00 %
 ```
+
+<h3>Where to find me</h3>
+<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
