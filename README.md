@@ -35,5 +35,5 @@ Siempre en busca de nuevos desafíos y comprometido con mi crecimiento profesion
 <!--START_SECTION:waka-->
 
 ```txt
-Kubernetes   2 hrs 36 mins   █████████████████████████   100.00 %
+Kubernetes 2 hrs 36 mins   █████████████████████████  100.00 %
 ```
