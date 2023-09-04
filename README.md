@@ -4,7 +4,7 @@ Mi pasión se encuentra en el desarrollo back-end y aplicaciones móviles.
 Siempre en busca de nuevos desafíos y comprometido con mi crecimiento profesional."
 
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400" height="320" />
   
 
 **languages and tools:**  
