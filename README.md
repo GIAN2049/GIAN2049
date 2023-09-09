@@ -7,7 +7,7 @@
 </p>
 
 
-"Estudiante en los últimos ciclos de la carrera de Computación e Informática en el Instituto Cibertec, 
+"Estudiante de últimos ciclos de la carrera de Computación e Informática en el Instituto Cibertec, 
 con habilidades en trabajo en equipo, adaptabilidad y creatividad. 
 Mi pasión se encuentra en el desarrollo back-end y aplicaciones móviles. 
 Siempre en busca de nuevos desafíos y comprometido con mi crecimiento profesional."
