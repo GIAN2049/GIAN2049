@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gianfranco Manchinari Guerrero</h1>
-<h3 align="center">A passionate backend developer from Peru</h3>
+<h3 align="center">A passionate backend developer 🧑‍💻 from Peru 🇵🇪</h3>
 
 <h3>Where to find me</h3>
 <p><a href="https://www.linkedin.com/in/gianfranco-manchinari-guerrero-486516241/" target="_blank">
