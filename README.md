@@ -7,7 +7,9 @@
 </p>
 
 
-"Estudiante de últimos ciclos de la carrera de Computación e Informática en el Instituto Cibertec, con sólidas habilidades en trabajo en equipo, adaptabilidad y creatividad. Mi pasión se encuentra en el desarrollo backend, además me gustaría desarrollarme en áreas como el desarrollo de aplicaciones móviles. Autodidacta y siempre en busca de nuevos desafíos, comprometido con mi crecimiento profesional."
+"Apasionado desarrollador en crecimiento, egresado de Computación e Informática en Cibertec y practicante desarrollador Java. Con conocimientos en Spring, Hibernate y
+Angular, soy dedicado y adaptable, capaz de aportar en entornos colaborativos para crear soluciones técnicas sólidas. Con un enfoque en el aprendizaje continuo, he explorado 
+áreas como inteligencia artificial y ciberseguridad a través de proyectos y cursos especializados. Mi objetivo es contribuir en un entorno innovador que promueva la excelencia técnica."
 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400" height="320" />
